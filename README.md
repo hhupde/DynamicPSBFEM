@@ -6,6 +6,7 @@ The polygonal scaled boundary finite element method (PSBFEM) is a novel approach
 Citation
 If you use our code for academic research, you are encouraged to cite the following paper:
 
+```
 @article{ye2021free,
   title={Free and Forced Vibration Analysis in Abaqus Based on the Polygonal Scaled Boundary Finite Element Method},
   author={Ye, Nan and Su, Chao and Yang, Yang},
@@ -14,3 +15,5 @@ If you use our code for academic research, you are encouraged to cite the follow
   year={2021},
   publisher={Hindawi}
 }
+
+```
